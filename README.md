@@ -1,4 +1,5 @@
 # 🩺 MediGuide AI
+https://mediguide-mbwxdbocqqq5nqkxk28ztb.streamlit.app/
 
 **AI-Powered Medical Symptom Assessment and Patient Guidance Assistant**
 *(Educational Prototype)*
